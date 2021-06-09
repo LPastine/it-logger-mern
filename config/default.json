@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://lpastine:lpastine@cluster0.lxke5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
